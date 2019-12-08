@@ -9,7 +9,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"axios": "^0.18.0",
+		"axios": "^0.18.1",
 		"discord-akairo": "github:1Computer1/discord-akairo#master",
 		"discord.js": "github:discordjs/discord.js#master",
 		"dotenv": "^7.0.0"
